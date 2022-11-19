@@ -1,0 +1,11 @@
+Model Information:
+* title:	BMW 1 Series M Coupe
+* source:	https://sketchfab.com/3d-models/bmw-1-series-m-coupe-fbe8c44805ac45c88d13490344904e10
+* author:	SpoonSports (https://sketchfab.com/boombasslord)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BMW 1 Series M Coupe" (https://sketchfab.com/3d-models/bmw-1-series-m-coupe-fbe8c44805ac45c88d13490344904e10) by SpoonSports (https://sketchfab.com/boombasslord) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
