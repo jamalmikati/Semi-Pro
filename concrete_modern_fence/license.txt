@@ -1,0 +1,11 @@
+Model Information:
+* title:	Concrete Modern Fence
+* source:	https://sketchfab.com/3d-models/concrete-modern-fence-63aa1968404d4834aa6b1546b0b9acff
+* author:	egorshevelkovv (https://sketchfab.com/egorshevelkovv)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Concrete Modern Fence" (https://sketchfab.com/3d-models/concrete-modern-fence-63aa1968404d4834aa6b1546b0b9acff) by egorshevelkovv (https://sketchfab.com/egorshevelkovv) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
