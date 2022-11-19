@@ -1,0 +1,11 @@
+Model Information:
+* title:	Parking Meter
+* source:	https://sketchfab.com/3d-models/parking-meter-03cd5e18c947454b92b0f92b9e688ef5
+* author:	Wieseli (https://sketchfab.com/Wieseli)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Parking Meter" (https://sketchfab.com/3d-models/parking-meter-03cd5e18c947454b92b0f92b9e688ef5) by Wieseli (https://sketchfab.com/Wieseli) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
