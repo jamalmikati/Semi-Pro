@@ -1,0 +1,11 @@
+Model Information:
+* title:	McLaren Senna FBX
+* source:	https://sketchfab.com/3d-models/mclaren-senna-fbx-711ad013ea774041a07f0224941cb444
+* author:	Sxi.Sai (https://sketchfab.com/Sxi.Sai)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "McLaren Senna FBX" (https://sketchfab.com/3d-models/mclaren-senna-fbx-711ad013ea774041a07f0224941cb444) by Sxi.Sai (https://sketchfab.com/Sxi.Sai) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
